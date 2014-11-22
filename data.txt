@@ -2,9 +2,12 @@
 #include<conio.h>
 void main()
 {
-int a,b,avg;
+int a,b,avg,ca;
 cout<<"enter the two max marks:"<<endl;
 cin>>a>>b;
 avg=(a+b)/2;
+cout<<"the avg marks of the studet:"<<avg;
+cout<<"calculating the ca:"<<endl;
+ca=a+b;
 getch();
 }
