@@ -9,5 +9,6 @@ avg=(a+b)/2;
 cout<<"the avg marks of the studet:"<<avg;
 cout<<"calculating the ca:"<<endl;
 ca=a+b;
+cout<<"total ca marks:"<<ca<<endl;
 getch();
 }
